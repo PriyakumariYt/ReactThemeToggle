@@ -82,7 +82,7 @@ nav h1::first-letter {
 .box img {
   height: 500px;
   width: 80%;
- filter: drop-shadow(35px 25px 5px #4444dd);
+  filter: drop-shadow(30px 15px 7px #21215a);
 }
 .box h2 {
   font-size: 2.5rem;
