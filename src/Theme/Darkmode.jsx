@@ -10,7 +10,7 @@ const Darkmode = () => {
       setTheme("dark-theme");
     }
   };
-  useEffect(() => {
+ useEffect(() => {
     document.body.className = theme;
   }, [theme]);
 
